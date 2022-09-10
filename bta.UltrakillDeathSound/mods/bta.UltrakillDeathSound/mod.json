@@ -1,0 +1,6 @@
+{
+	"Name": "bta.UltrakillDeathSound",
+	"Description": "Replaces the death sound with the one from Ultrakill.",
+	"Version": "1.0.0",
+	"LoadPriority": 9999
+}
