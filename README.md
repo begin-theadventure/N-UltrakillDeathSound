@@ -5,4 +5,4 @@ Idea from: CyanPickle
 
 Sound taken from: https://youtu.be/LrJ_AXGz68s
 
-![icon](https://user-images.githubusercontent.com/99835765/189496462-3472c34b-0bcc-4a57-ad04-d921a5a4b916.png)
+![icon](https://user-images.githubusercontent.com/99835765/189497033-a8847633-ddae-4d77-ac03-a3a7eb2c4312.png)
