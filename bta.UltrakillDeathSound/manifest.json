@@ -1,7 +1,0 @@
-{
-    "name": "bta.UltrakillDeathSound",
-    "version_number": "1.0.0",
-    "website_url": "https://github.com/begin-theadventure/UltrakillDeathSound",
-    "description": "Replaces the death sound with the one from Ultrakill.",
-    "dependencies": []
-}
