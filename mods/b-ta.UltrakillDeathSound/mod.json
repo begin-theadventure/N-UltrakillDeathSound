@@ -1,6 +1,6 @@
 {
 	"Name": "ඞb-ta.UltrakillDeathSound",
-	"Description": "Replaces the death sound with the one from Ultrakill.\nIdea from: CyanPickle.\nbegin-theadventure 2023",
-	"Version": "ඞ1.0.1",
+	"Description": "-Replaces the death sound with the one from Ultrakill.\nIdea from: CyanPickle.\nbegin-theadventure 2023",
+	"Version": "ඞ1.0.2",
 	"LoadPriority": 9999
 }

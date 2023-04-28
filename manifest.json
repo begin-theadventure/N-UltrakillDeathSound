@@ -1,6 +1,6 @@
 {
     "name": "UltrakillDeathSound",
-    "version_number": "1.0.1",
+    "version_number": "1.0.2",
     "website_url": "https://github.com/begin-theadventure/N-UltrakillDeathSound",
     "description": "Replaces the death sound with the one from Ultrakill.",
     "dependencies": []
